@@ -7,7 +7,9 @@ versões anteriores.
 <h1> Aprender Excel </h1>
 
 Aprender excel tem dado bastante dor de cabeça a algumas pessoas, mas isso não pode acontecer, pois existem inúmeros meios de aprender exce. 
-O excel não é uma ferramenta muito facil de usar, Agora, um dia, qualquer trabalho requer habilidades básicas do Excel. Essas habilidades
-básicas do Excel são - familiaridade com fitas Excel e UI, capacidade de inserir e formatar dados, calcular totais e resumos através de
-fórmulas, destacar dados que atendam a certas condições, criando relatórios e gráficos simples, compreendendo a importância dos atalhos de
-teclado e truques de produtividade.
+O excel não é uma ferramenta muito facil de usar. Hoje em dia qualquer trabalho requer habilidades básicas do Excel. Essas habilidades
+básicas do Excel são - familiaridade com as formulas e funções, capacidade de inserir e formatar dados, calcular totais e resumos através de fórmulas, destacar dados que atendam a certas condições, criando relatórios e gráficos simples, compreendendo a importância dos atalhos de teclado e truques de produção.
+
+<u>Existem cinco áreas importantes na tela.</u>
+
+1. Barra de ferramentas de acesso rápido:
