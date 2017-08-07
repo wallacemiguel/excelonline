@@ -22,5 +22,12 @@ básicas do Excel são - familiaridade com as formulas e funções, capacidade d
 
 5.Barra de status: isso nos informa o que está acontecendo com o Excel a qualquer momento.
 
-É incrivel, 
+É incrivel, quantas funções o excel tem, aprender excel é ficar a frente de uma concorrencia enorme na hora de arrumar um emprego. 
+
+Algumas formas de aprender excel são incriveis, como no curso de excel online da escola excelsemsegredos é muito importante aprender excel. 
+
+E no curso você aprende como usar o excel de maneira tranquilo e online. 
+
+<h2> Maneiras de aprender excel </h2>
+
 
