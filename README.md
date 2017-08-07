@@ -10,7 +10,7 @@ Aprender excel tem dado bastante dor de cabeça a algumas pessoas, mas isso não
 O excel não é uma ferramenta muito facil de usar. Hoje em dia qualquer trabalho requer habilidades básicas do Excel. Essas habilidades
 básicas do Excel são - familiaridade com as formulas e funções, capacidade de inserir e formatar dados, calcular totais e resumos através de fórmulas, destacar dados que atendam a certas condições, criando relatórios e gráficos simples, compreendendo a importância dos atalhos de teclado e truques de produção.
 
-Existem cinco áreas importantes na tela.
+<strong>Existem cinco áreas importantes na tela.</strong>
 
 1.Barra de ferramentas de acesso rápido: este é um lugar onde todas as ferramentas importantes podem ser colocadas.
 
@@ -22,4 +22,5 @@ Existem cinco áreas importantes na tela.
 
 5.Barra de status: isso nos informa o que está acontecendo com o Excel a qualquer momento.
 
+É incrivel, 
 
