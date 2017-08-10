@@ -29,8 +29,14 @@ Algumas formas de aprender excel são incriveis, como no curso de excel online d
 E no curso você aprende como usar o excel de maneira tranquilo e online. 
 
 <h2> Maneiras de aprender excel </h2>
-Existem algumas maneiras de aprender excel, uma ferramenta tão importante para o grande desenvolvimento de funçõee. 
+Existem algumas maneiras de aprender excel, uma ferramenta tão importante para o grande desenvolvimento de funções.
+A internet contém bastante conteúdo, mas estão espalhados por toda parte, acho que um curso de excel online pode te ajudar muito, pois todo conteúdo vai estar dividido por módulos e que vão agregar e muito em sua vida.
 
-A internet contém bastante conteúdo, 
+É incrivel quantas funções o excel tem e com certeza você precisa aprender a usar o Excel, vai ajudar e muito em sua vida.
+
+Fique ligado vamos postar mais conteúdos e espero ter ajudado vocês. 
+
+
+
 
 
