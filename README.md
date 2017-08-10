@@ -1,6 +1,6 @@
 # excelonline
 Aprenda Excel online, entenda as principais funções e formulas.
-Criamos esse projeto para indicar Esta classe de Excel em linha gratuita foi criada com o objetivo de ajudá-lo a aprender oMicrosoft Excel.
+Criamos esse projeto para indicar Esta classe de Excel em linha gratuita foi criada com o objetivo de ajudá-lo a aprender o <a href="https://www.microsoft.com/pt-br">Microsoft Excel</a>.
 Nesses tutoriais de vídeo,Ensino como usar o Microsoft Excel 2010 especificamente, mas a maioria das informações também é aplicável às
 versões anteriores.
 
