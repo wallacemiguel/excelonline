@@ -32,11 +32,14 @@ E no curso você aprende como usar o excel de maneira tranquilo e online.
 Existem algumas maneiras de aprender excel, uma ferramenta tão importante para o grande desenvolvimento de funções.
 A internet contém bastante conteúdo, mas estão espalhados por toda parte, acho que um curso de excel online pode te ajudar muito, pois todo conteúdo vai estar dividido por módulos e que vão agregar e muito em sua vida.
 
-É incrivel quantas funções o excel tem e com certeza você precisa aprender a usar o Excel, vai ajudar e muito em sua vida.
+É incrivel quantas funções o excel tem e com certeza você precisa <a href="https://excelsemsegredo.com.br/como-aprender/">aprender a usar o Excel</a>, vai ajudar e muito em sua vida.
 
 Fique ligado vamos postar mais conteúdos e espero ter ajudado vocês. 
 
 
+<h3> O Curso de Excel online </h3>
 
+Rapidinho voltei para te aconteselhar, um ótimo site que tem imenso conteúdo gratuito para você é o excel sem segredo, um ótimo blog para que você que não tem muita condição. 
+E também tem um grande <a href="https://excelsemsegredo.com.br/curso-online/">curso de excel</a>, espero que você consiga aprender essa grande ferramenta.
 
 
